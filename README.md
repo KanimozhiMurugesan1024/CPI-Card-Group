@@ -1,1 +1,1 @@
-# CPI-Card-Group
+# Data model and CPI-Card-Group
